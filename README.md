@@ -24,14 +24,14 @@
 ##  Quick Links
 
 > - [ Overview](#overview)
-> - [ Features](#-features)
-> - [ Repository Structure](#-repository-structure)
-> - [ Getting Started](#-getting-started)
->   - [ Installation](#-installation)
->   - [ Running Third-Eye-PortScanner](#-running-Third-Eye-PortScanner)
-> - [ Contributing](#-contributing)
-> - [ License](#-license)
-> - [ Acknowledgments](#-acknowledgments)
+> - [ Features](#features)
+> - [ Repository Structure](#repository-structure)
+> - [ Getting Started](#getting-started)
+>   - [ Installation](#installation)
+>   - [ Running Third-Eye-PortScanner](#running-Third-Eye-PortScanner)
+> - [ Contributing](#contributing)
+> - [ License](#license)
+> - [ Acknowledgments](#acknowledgments)
 
 ---
 
