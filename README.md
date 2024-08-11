@@ -31,7 +31,6 @@
 >   - [ Running Third-Eye-PortScanner](#running-Third-Eye-PortScanner)
 > - [ Contributing](#contributing)
 > - [ License](#license)
-> - [ Acknowledgments](#acknowledgments)
 
 ---
 
@@ -146,13 +145,5 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 ##  License
 
 This project is protected under the MIT License. For more details, refer to the [LICENSE](https://github.com/abhishek-pokhrel/Third-Eye-PortScanner/blob/master/LICENSE) file.
-
----
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
-[**Return**](#-quick-links)
 
 ---
